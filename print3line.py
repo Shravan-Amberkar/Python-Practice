@@ -2,7 +2,7 @@
 Write a Python program that reads input
 The input will consist of some number of lines of text. 
 The input will be terminated by a blank line.
-Your program should print every third line
+Your program should print every 3rd  line
 '''
 
 data=input()
